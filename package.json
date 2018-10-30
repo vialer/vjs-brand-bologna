@@ -1,0 +1,22 @@
+{
+  "name": "@vialer/vjs-brand-bologna",
+  "version": "1.0.0",
+  "description": "Open source brand for Vialer-js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vialer/vjs-brand-bologna.git"
+  },
+  "keywords": [
+    "vialer-js"
+  ],
+  "author": "Windshaft B.V.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vialer/vjs-brand-bologna/issues"
+  },
+  "homepage": "https://github.com/vialer/vjs-brand-bologna#readme"
+}
