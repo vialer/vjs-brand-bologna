@@ -1,7 +1,7 @@
 {
-  "name": "@vialer/vjs-brand-bologna",
+  "name": "@vialer/vjs-theme-bologna",
   "version": "1.0.0",
-  "description": "Open source brand for Vialer-js.",
+  "description": "Bologna theme for Vialer-js.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
